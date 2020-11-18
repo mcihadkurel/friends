@@ -1,24 +1,16 @@
-# README
+# Fdiends App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+This project includes scaffold and devise
 
-* Ruby version
+![screenshot](./app/assets/images/screenshot_1.png)
+![screenshot](./app/assets/images/screenshot_2.png)
+![screenshot](./app/assets/images/screenshot_3.png)
 
-* System dependencies
+## Author
 
-* Configuration
+👤 **Muhammed Cihad Kurel**
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Github: [@mcihadkurel](https://github.com/mcihadkurel)
+- Twitter: [@mece_ka](https://twitter.com/mece_ka)
+- LinkedIn: [@muhammed](https://www.linkedin.com/in/muhammed-cihad-8187581a8/)
