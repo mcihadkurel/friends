@@ -3,9 +3,9 @@
 
 This project includes scaffold and devise
 
-![screenshot](./app/assets/images/screenshot_1.png)
-![screenshot](./app/assets/images/screenshot_2.png)
-![screenshot](./app/assets/images/screenshot_3.png)
+![screenshot](./app/assets/images/Screenshot_1.png)
+![screenshot](./app/assets/images/Screenshot_2.png)
+![screenshot](./app/assets/images/Screenshot_3.png)
 
 ## Author
 
